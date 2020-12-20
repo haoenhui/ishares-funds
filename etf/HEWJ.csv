@@ -1,0 +1,11 @@
+Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUSIP,ISIN,SEDOL,Price,Location,Exchange,Currency,FX Rate,Market Currency,Accrual Date
+"EWJ","ISHARES MSCI JAPAN ETF","Financials","Equity","335,076,451.20","101.11","335,076,451.20","5,019,120.00","46434G822","US46434G8226","BDR7G84","66.76","United States","NYSE Arca","USD","1.00","USD","-"
+"XTSLA","BLK CSH FND TREASURY SL AGENCY","Cash and/or Derivatives","Money Market","120,000.00","0.04","120,000.00","120,000.00","066922477","US0669224778","-","1.00","United States","-","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","36,140.73","0.01","36,140.73","36,141.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"JPY","JPY/USD","Cash and/or Derivatives","Forwards","-9,960.99","0.00","-9,960.99","-183,710,000.00","-","-","-","1.00","United States","-","USD","102.99","USD","-"
+"JPY","JPY/USD","Cash and/or Derivatives","Forwards","-12,125.92","0.00","-12,125.92","-131,573,000.00","-","-","-","1.00","United States","-","USD","102.99","USD","-"
+"JPY","JPY/USD","Cash and/or Derivatives","Forwards","-16,094.80","0.00","-16,094.80","-183,732,000.00","-","-","-","1.00","United States","-","USD","102.99","USD","-"
+"JPY","JPY/USD","Cash and/or Derivatives","Forwards","-42,771.00","-0.01","-42,771.00","-363,522,000.00","-","-","-","1.00","United States","-","USD","102.99","USD","-"
+"JPY","JPY/USD","Cash and/or Derivatives","Forwards","-282,069.81","-0.09","-282,069.81","-2,538,678,800.00","-","-","-","1.00","United States","-","USD","102.99","USD","-"
+"JPY","JPY/USD","Cash and/or Derivatives","Forwards","-365,078.59","-0.11","-365,078.59","-3,285,315,000.00","-","-","-","1.00","United States","-","USD","102.99","USD","-"
+"JPY","JPY/USD","Cash and/or Derivatives","Forwards","-3,094,302.27","-0.93","-3,094,302.27","-27,855,510,200.00","-","-","-","1.00","United States","-","USD","102.99","USD","-"

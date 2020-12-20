@@ -1,0 +1,7 @@
+Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUSIP,ISIN,SEDOL,Price,Location,Exchange,Currency,FX Rate,Market Currency,Accrual Date
+"EWU","ISHARES MSCI UNITED KINGDOM ETF","Financials","Equity","9,672,849.52","101.71","9,672,849.52","325,466.00","46435G334","US46435G3341","BDR7G62","29.72","United States","NYSE Arca","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","6,223.83","0.07","6,223.83","6,224.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"GBP","GBP CASH","Cash and/or Derivatives","Cash","0.27","0.00","0.27","0.00","-","-","-","135.93","United Kingdom","-","USD","0.74","GBP","-"
+"GBP","GBP/USD","Cash and/or Derivatives","Forwards","-2,138.17","-0.02","-2,138.17","-81,000.00","-","-","-","1.00","United States","-","USD","0.74","USD","-"
+"GBP","GBP/USD","Cash and/or Derivatives","Forwards","-20,009.19","-0.21","-20,009.19","-839,000.00","-","-","-","1.00","United States","-","USD","0.74","USD","-"
+"GBP","GBP/USD","Cash and/or Derivatives","Forwards","-146,389.48","-1.54","-146,389.48","-6,141,000.00","-","-","-","1.00","United States","-","USD","0.74","USD","-"
