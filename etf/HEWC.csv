@@ -1,7 +1,7 @@
 Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUSIP,ISIN,SEDOL,Price,Location,Exchange,Currency,FX Rate,Market Currency,Accrual Date
-"EWC","ISHARES MSCI CANADA ETF","Financials","Equity","12,485,268.75","100.59","12,485,268.75","406,025.00","464286509","US4642865095","2373681","30.75","United States","NYSE Arca","USD","1.00","USD","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","9,300.64","0.07","9,300.64","9,301.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
-"CAD","CAD/USD","Cash and/or Derivatives","Forwards","1,340.01","0.01","1,340.01","-197,000.00","-","-","-","1.00","United States","-","USD","1.29","USD","-"
-"CAD","CAD/USD","Cash and/or Derivatives","Forwards","338.01","0.00","338.01","58,000.00","-","-","-","1.00","United States","-","USD","1.29","USD","-"
-"CAD","CAD/USD","Cash and/or Derivatives","Forwards","-6,873.05","-0.06","-6,873.05","-1,290,000.00","-","-","-","1.00","United States","-","USD","1.29","USD","-"
-"CAD","CAD/USD","Cash and/or Derivatives","Forwards","-77,938.66","-0.63","-77,938.66","-14,644,000.00","-","-","-","1.00","United States","-","USD","1.29","USD","-"
+"EWC","ISHARES MSCI CANADA ETF","Financials","Equity","12,469,027.75","100.13","12,469,027.75","406,025.00","464286509","US4642865095","2373681","30.71","United States","NYSE Arca","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","9,259.82","0.07","9,259.82","9,260.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"CAD","CAD/USD","Cash and/or Derivatives","Forwards","2,053.85","0.02","2,053.85","-197,000.00","-","-","-","1.00","United States","-","USD","1.29","USD","-"
+"CAD","CAD/USD","Cash and/or Derivatives","Forwards","127.84","0.00","127.84","58,000.00","-","-","-","1.00","United States","-","USD","1.29","USD","-"
+"CAD","CAD/USD","Cash and/or Derivatives","Forwards","-2,198.64","-0.02","-2,198.64","-1,290,000.00","-","-","-","1.00","United States","-","USD","1.29","USD","-"
+"CAD","CAD/USD","Cash and/or Derivatives","Forwards","-24,875.09","-0.20","-24,875.09","-14,644,000.00","-","-","-","1.00","United States","-","USD","1.29","USD","-"
