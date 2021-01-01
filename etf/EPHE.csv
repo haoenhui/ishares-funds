@@ -39,4 +39,4 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "MWC","MANILA WATER INC","Utilities","Equity","447,463.63","0.29","447,463.63","1,344,729.00","-","PHY569991086","B0684C7","0.33","Philippines","Philippine Stock Exchange Inc.","USD","48.02","PHP","-"
 "PHP","PHP CASH","Cash and/or Derivatives","Cash","108,932.84","0.07","108,932.84","5,231,336.00","-","-","-","2.08","Philippines","-","USD","48.02","PHP","-"
 "XTSLA","BLK CSH FND TREASURY SL AGENCY","Cash and/or Derivatives","Money Market","60,000.00","0.04","60,000.00","60,000.00","066922477","US0669224778","-","1.00","United States","-","USD","1.00","USD","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","-54,402.81","-0.03","-54,402.81","-54,403.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","-56,818.12","-0.04","-56,818.12","-56,818.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
