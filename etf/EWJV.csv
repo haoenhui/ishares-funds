@@ -189,7 +189,7 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "8905","AEON MALL LTD","Real Estate","Equity","9,891.04","0.06","9,891.04","600.00","S65342024","JP3131430005","6534202","16.49","Japan","Tokyo Stock Exchange","USD","103.25","JPY","-"
 "5486","HITACHI METALS LTD","Materials","Equity","9,100.68","0.06","9,100.68","600.00","S64292014","JP3786200000","6429201","15.17","Japan","Tokyo Stock Exchange","USD","103.25","JPY","-"
 "3003","HULIC LTD","Real Estate","Equity","6,584.34","0.04","6,584.34","600.00","S68053172","JP3360800001","6805317","10.97","Japan","Tokyo Stock Exchange","USD","103.25","JPY","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","6,135.38","0.04","6,135.38","6,135.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","6,008.05","0.04","6,008.05","6,008.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
 "9024","SEIBU HOLDINGS INC","Industrials","Equity","5,875.35","0.04","5,875.35","600.00","-","JP3417200007","BKY6H35","9.79","Japan","Tokyo Stock Exchange","USD","103.25","JPY","-"
 "WFFUT","CASH COLLATERAL JPY WFFUT","Cash and/or Derivatives","Cash Collateral and Margins","1,704.68","0.01","1,704.68","176,000.00","-","-","-","0.97","United States","-","USD","103.25","JPY","Aug 23, 2017"
 "TMIH1","MINI TPX IDX MAR 21","Cash and/or Derivatives","Futures","0.00","0.00","34,955.69","2.00","-","-","-","17.48","-","Osaka Securities Exchange","USD","103.25","JPY","-"

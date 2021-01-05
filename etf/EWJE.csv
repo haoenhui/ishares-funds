@@ -296,6 +296,6 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "6645","OMRON CORP","Information Technology","Equity","17,821.69","0.23","17,821.69","200.00","S66594284","JP3197800000","6659428","89.11","Japan","Tokyo Stock Exchange","USD","103.25","JPY","-"
 "7832","BANDAI NAMCO HOLDINGS INC","Consumer Discretionary","Equity","17,290.91","0.22","17,290.91","200.00","-","JP3778630008","B0JDQD4","86.45","Japan","Tokyo Stock Exchange","USD","103.25","JPY","-"
 "2897","NISSIN FOODS HOLDINGS LTD","Consumer Staples","Equity","17,124.32","0.22","17,124.32","200.00","S66417601","JP3675600005","6641760","85.62","Japan","Tokyo Stock Exchange","USD","103.25","JPY","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","1,022.93","0.01","1,022.93","1,023.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","959.62","0.01","959.62","960.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
 "WFFUT","CASH COLLATERAL JPY WFFUT","Cash and/or Derivatives","Cash Collateral and Margins","852.34","0.01","852.34","88,000.00","-","-","-","0.97","United States","-","USD","103.25","JPY","Aug 23, 2017"
 "TMIH1","MINI TPX IDX MAR 21","Cash and/or Derivatives","Futures","0.00","0.00","17,477.84","1.00","-","-","-","17.48","-","Osaka Securities Exchange","USD","103.25","JPY","-"
