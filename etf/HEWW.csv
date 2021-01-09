@@ -1,6 +1,6 @@
 Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUSIP,ISIN,SEDOL,Price,Location,Exchange,Currency,FX Rate,Market Currency,Accrual Date
-"EWW","ISHARES MSCI MEXICO ETF","Financials","Equity","843,642.52","100.83","843,642.52","18,781.00","464286822","US4642868222","2373818","44.92","United States","NYSE Arca","USD","1.00","USD","-"
+"EWW","ISHARES MSCI MEXICO ETF","Financials","Equity","836,881.36","100.05","836,881.36","18,781.00","464286822","US4642868222","2373818","44.56","United States","NYSE Arca","USD","1.00","USD","-"
 "USD","USD CASH","Cash and/or Derivatives","Cash","400.72","0.05","400.72","401.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
-"MXN","MXN/USD","Cash and/or Derivatives","Forwards","-13.05","0.00","-13.05","-26,000.00","-","-","-","1.00","United States","-","USD","19.82","USD","-"
-"MXN","MXN/USD","Cash and/or Derivatives","Forwards","-197.13","-0.02","-197.13","-436,000.00","-","-","-","1.00","United States","-","USD","19.82","USD","-"
-"MXN","MXN/USD","Cash and/or Derivatives","Forwards","-7,159.71","-0.86","-7,159.71","-15,863,000.00","-","-","-","1.00","United States","-","USD","19.82","USD","-"
+"MXN","MXN/USD","Cash and/or Derivatives","Forwards","-2.68","0.00","-2.68","-26,000.00","-","-","-","1.00","United States","-","USD","19.98","USD","-"
+"MXN","MXN/USD","Cash and/or Derivatives","Forwards","-23.17","0.00","-23.17","-436,000.00","-","-","-","1.00","United States","-","USD","19.98","USD","-"
+"MXN","MXN/USD","Cash and/or Derivatives","Forwards","-830.29","-0.10","-830.29","-15,863,000.00","-","-","-","1.00","United States","-","USD","19.98","USD","-"
