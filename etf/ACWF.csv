@@ -464,7 +464,7 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "4","WHARF (HOLDINGS) LTD","Real Estate","Equity","11,903.84","0.01","11,903.84","5,000.00","S64355761","HK0004000045","6435576","2.38","China","Hong Kong Exchanges And Clearing Ltd","USD","7.75","HKD","-"
 "JPY","JPY CASH","Cash and/or Derivatives","Cash","6,742.44","0.01","6,742.44","700,371.00","-","-","-","0.96","Japan","-","USD","103.88","JPY","-"
 "BRL","BRL CASH","Cash and/or Derivatives","Cash","4,690.10","0.01","4,690.10","24,721.00","-","-","-","18.97","Brazil","-","USD","5.27","BRL","-"
-"CAD","CAD CASH","Cash and/or Derivatives","Cash","3,182.48","0.00","3,182.48","4,061.00","-","-","-","78.38","Canada","-","USD","1.28","CAD","-"
+"CAD","CAD CASH","Cash and/or Derivatives","Cash","3,171.56","0.00","3,171.56","4,047.00","-","-","-","78.38","Canada","-","USD","1.28","CAD","-"
 "ZAR","ZAR CASH","Cash and/or Derivatives","Cash","1,126.41","0.00","1,126.41","17,154.00","-","-","-","6.57","South Africa","-","USD","15.23","ZAR","-"
 "IDR","IDR CASH","Cash and/or Derivatives","Cash","1,066.21","0.00","1,066.21","14,948,213.00","-","-","-","0.01","Indonesia","-","USD","14,020.00","IDR","-"
 "PHP","PHP CASH","Cash and/or Derivatives","Cash","408.00","0.00","408.00","19,610.00","-","-","-","2.08","Philippines","-","USD","48.06","PHP","-"

@@ -93,4 +93,4 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "PTH1","S&P/TSE 60 INDEX MAR 21","Cash and/or Derivatives","Futures","0.00","0.00","3,659,252.29","22.00","-","-","-","831.65","-","The Montreal Exchange / Bourse De Montreal","USD","1.28","CAD","-"
 "DJEH1","DOW JONES US REAL ESTATE MAR 21","Cash and/or Derivatives","Futures","0.00","0.00","1,387,260.00","42.00","-","-","-","330.30","-","Chicago Board Of Trade","USD","1.00","USD","-"
 "IBG1","IBEX 35 INDEX FEB 21","Cash and/or Derivatives","Futures","0.00","0.00","2,681,915.76","27.00","-","ES0B00069541","-","9,933.01","-","Meff Renta Variable","USD","0.83","EUR","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","-4,164,706.58","-0.14","-4,164,706.58","-4,164,707.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","-4,164,706.20","-0.14","-4,164,706.20","-4,164,706.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"

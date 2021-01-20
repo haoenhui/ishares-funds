@@ -41,7 +41,7 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "ENELCHILE","ENEL CHILE SA","Utilities","Equity","7,457,585.94","0.46","7,457,585.94","90,600,124.00","-","CL0002266774","BYMLZD6","0.08","Chile","Santiago Stock Exchange","USD","735.61","CLP","-"
 "IENOVA*","INFRAESTRUCTURA ENERGETICA NOVA","Utilities","Equity","6,002,522.58","0.37","6,002,522.58","1,585,200.00","-","MX01IE060002","B84XBP2","3.79","Mexico","Bolsa Mexicana De Valores","USD","19.80","MXN","-"
 "XTSLA","BLK CSH FND TREASURY SL AGENCY","Cash and/or Derivatives","Money Market","2,160,000.00","0.13","2,160,000.00","2,160,000.00","066922477","US0669224778","-","1.00","United States","-","USD","1.00","USD","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","1,942,065.42","0.12","1,942,065.42","1,942,065.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","1,942,065.50","0.12","1,942,065.50","1,942,066.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
 "BRL","BRL CASH","Cash and/or Derivatives","Cash","1,370,734.26","0.09","1,370,734.26","7,225,072.00","-","-","-","18.97","Brazil","-","USD","5.27","BRL","-"
 "MXN","MXN CASH","Cash and/or Derivatives","Cash","1,047,915.16","0.07","1,047,915.16","20,747,410.00","-","-","-","5.05","Mexico","-","USD","19.80","MXN","-"
 "HBCFT","CASH COLLATERAL USD HBCFT","Cash and/or Derivatives","Cash Collateral and Margins","259,000.00","0.02","259,000.00","259,000.00","-","-","-","100.00","United Kingdom","-","USD","1.00","USD","May 28, 2019"

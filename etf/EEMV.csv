@@ -384,5 +384,4 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "QAR","QAR/USD","Cash and/or Derivatives","FX","-1,150.43","0.00","-1,150.43","-538,568.00","-","-","-","1.00","United States","-","USD","3.64","USD","-"
 "QAR","QAR/USD","Cash and/or Derivatives","FX","-1,528.45","0.00","-1,528.45","-715,536.00","-","-","-","1.00","United States","-","USD","3.64","USD","-"
 "QAR","QAR/USD","Cash and/or Derivatives","FX","-1,962.78","0.00","-1,962.78","-918,869.00","-","-","-","1.00","United States","-","USD","3.64","USD","-"
-"INR","INR/USD","Cash and/or Derivatives","FX","-5,046.41","0.00","-5,046.41","-320,586,591.00","-","-","-","1.00","United States","-","USD","73.07","USD","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","-41,342,128.57","-0.98","-41,342,128.57","-41,342,129.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","-41,342,128.67","-0.98","-41,342,128.67","-41,342,129.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"

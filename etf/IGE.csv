@@ -92,4 +92,4 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "SGAFT","CASH COLLATERAL USD SGAFT","Cash and/or Derivatives","Cash Collateral and Margins","34,000.00","0.01","34,000.00","34,000.00","-","-","-","100.00","United States","-","USD","1.00","USD","Sep 01, 2016"
 "RTYH1","RUSSELL 2000 EMINI CME MAR 21","Cash and/or Derivatives","Futures","0.00","0.00","106,040.00","1.00","-","-","-","2,120.80","-","Chicago Mercantile Exchange","USD","1.00","USD","-"
 "IXPH1","EMINI ENERGY SELECT SECTOR MAR 21","Cash and/or Derivatives","Futures","0.00","0.00","266,160.00","6.00","-","-","-","443.60","-","Chicago Mercantile Exchange","USD","1.00","USD","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","-6,730.23","0.00","-6,730.23","-6,730.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","-6,723.19","0.00","-6,723.19","-6,723.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"

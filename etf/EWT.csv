@@ -92,6 +92,7 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "1602","PACIFIC ELECTRIC WIRE","Industrials","Equity","0.00","0.00","0.00","197.00","S66661380","TW0001602001","6666138","0.00","Taiwan","Taiwan Stock Exchange","USD","27.98","TWD","-"
 "2418","YA HSIN INDUSTRIAL CO. LTD.","Information Technology","Equity","2.45","0.00","2.45","6,845,461.00","S61158341","TW0002418001","6115834","0.00","Taiwan","Taiwan Stock Exchange","USD","27.98","TWD","-"
 "TWTF1","FTSE TAIWAN JAN 21","Cash and/or Derivatives","Futures","0.00","0.00","13,791,960.00","252.00","-","SGXDB0348506","-","1,368.25","-","Singapore Exchange Derivatives Clearing Limited","USD","1.00","USD","-"
+"MARGIN_USD","FUTURES USD MARGIN BALANCE","Cash and/or Derivatives","Cash Collateral and Margins","-70.97","0.00","-70.97","-71.00","-","-","-","100.00","United States","-","USD","1.00","USD","Jan 01, 2000"
 "TWD","TWD/USD","Cash and/or Derivatives","FX","-1,471.06","0.00","-1,471.06","230,323,407.00","-","-","-","1.00","United States","-","USD","27.98","USD","-"
 "TWD","TWD/USD","Cash and/or Derivatives","FX","-2,327.91","0.00","-2,327.91","303,724,275.00","-","-","-","1.00","United States","-","USD","27.98","USD","-"
 "TWD","TWD/USD","Cash and/or Derivatives","FX","-8,278.44","0.00","-8,278.44","1,080,094,289.00","-","-","-","1.00","United States","-","USD","27.98","USD","-"

@@ -118,7 +118,7 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "RBF.R","R&B FOOD SUPPLY PCL NVDR","Consumer Staples","Equity","390,512.77","0.08","390,512.77","1,318,200.00","-","TH9451010R14","BKBD1W6","0.30","Thailand","Stock Exchange Of Thailand","USD","30.04","THB","-"
 "SC.R","SC ASSET CORPORATION NON-VOTING DR","Real Estate","Equity","367,127.75","0.08","367,127.75","3,883,604.00","S67113845","TH0747010R14","6711384","0.09","Thailand","Stock Exchange Of Thailand","USD","30.04","THB","-"
 "THB","THB CASH","Cash and/or Derivatives","Cash","117,657.55","0.02","117,657.55","3,534,727.00","-","-","-","3.33","Thailand","-","USD","30.04","THB","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","45,335.50","0.01","45,335.50","45,336.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","45,335.52","0.01","45,335.52","45,336.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
 "HBCFT","CASH COLLATERAL USD HBCFT","Cash and/or Derivatives","Cash Collateral and Margins","39,000.00","0.01","39,000.00","39,000.00","-","-","-","100.00","United Kingdom","-","USD","1.00","USD","May 28, 2019"
 "-","PTT PUBLIC THB1(NVDR)","Energy","Equity","0.10","0.00","0.10","300,758.00","-","-","-","0.00","Thailand","Stock Exchange Of Thailand","USD","30.04","THB","-"
 "MESH1","MSCI EMER MKT INDEX (ICE) MAR 21","Cash and/or Derivatives","Futures","0.00","0.00","542,200.00","8.00","-","-","-","1,355.50","-","Ice Futures U.S.","USD","1.00","USD","-"

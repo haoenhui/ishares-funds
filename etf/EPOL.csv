@@ -39,4 +39,4 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "JPFFT","CASH COLLATERAL USD JPFFT","Cash and/or Derivatives","Cash Collateral and Margins","58,000.00","0.02","58,000.00","58,000.00","-","-","-","100.00","United States","-","USD","1.00","USD","Feb 01, 2009"
 "EUR","EUR CASH","Cash and/or Derivatives","Cash","285.03","0.00","285.03","236.00","-","-","-","120.92","European Union","-","USD","0.83","EUR","-"
 "MESH1","MSCI EMER MKT INDEX (ICE) MAR 21","Cash and/or Derivatives","Futures","0.00","0.00","813,300.00","12.00","-","-","-","1,355.50","-","Ice Futures U.S.","USD","1.00","USD","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","-1,236,076.70","-0.43","-1,236,076.70","-1,236,077.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","-1,236,076.43","-0.43","-1,236,076.43","-1,236,076.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"

@@ -1,6 +1,6 @@
 Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUSIP,ISIN,SEDOL,Price,Location,Exchange,Currency,FX Rate,Market Currency,Accrual Date
-"PBBANK","PUBLIC BANK","Financials","Equity","52,732,301.75","12.86","52,732,301.75","10,040,280.00","-","MYL1295OO004","B012W42","5.25","Malaysia","Bursa Malaysia","USD","4.04","MYR","-"
-"MAYBANK","MALAYAN BANKING","Financials","Equity","27,730,916.20","6.76","27,730,916.20","13,567,981.00","S65563256","MYL1155OO000","6556325","2.04","Malaysia","Bursa Malaysia","USD","4.04","MYR","-"
+"PBBANK","PUBLIC BANK","Financials","Equity","52,732,301.75","12.87","52,732,301.75","10,040,280.00","-","MYL1295OO004","B012W42","5.25","Malaysia","Bursa Malaysia","USD","4.04","MYR","-"
+"MAYBANK","MALAYAN BANKING","Financials","Equity","27,730,916.20","6.77","27,730,916.20","13,567,981.00","S65563256","MYL1155OO000","6556325","2.04","Malaysia","Bursa Malaysia","USD","4.04","MYR","-"
 "TOPGLOV","TOP GLOVE CORPORATION","Health Care","Equity","26,743,240.43","6.52","26,743,240.43","16,814,500.00","-","MYL7113OO003","B05L892","1.59","Malaysia","Bursa Malaysia","USD","4.04","MYR","-"
 "CIMB","CIMB GROUP HOLDINGS","Financials","Equity","22,592,825.27","5.51","22,592,825.27","22,242,912.00","S60757457","MYL1023OO000","6075745","1.02","Malaysia","Bursa Malaysia","USD","4.04","MYR","-"
 "TENAGA","TENAGA NASIONAL","Utilities","Equity","19,844,536.15","4.84","19,844,536.15","7,868,612.00","S69046126","MYL5347OO009","6904612","2.52","Malaysia","Bursa Malaysia","USD","4.04","MYR","-"
