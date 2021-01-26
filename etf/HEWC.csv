@@ -1,6 +1,6 @@
 Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUSIP,ISIN,SEDOL,Price,Location,Exchange,Currency,FX Rate,Market Currency,Accrual Date
-"EWC","ISHARES MSCI CANADA ETF","Financials","Equity","12,647,285.28","100.88","12,647,285.28","394,488.00","464286509","US4642865095","2373681","32.06","United States","NYSE Arca","USD","1.00","USD","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","5,887.01","0.05","5,887.01","5,887.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
-"CAD","CAD/USD","Cash and/or Derivatives","Forwards","1,432.95","0.01","1,432.95","194,000.00","-","-","-","1.00","United States","-","USD","1.26","USD","-"
-"CAD","CAD/USD","Cash and/or Derivatives","Forwards","515.15","0.00","515.15","61,000.00","-","-","-","1.00","United States","-","USD","1.26","USD","-"
-"CAD","CAD/USD","Cash and/or Derivatives","Forwards","-117,649.31","-0.94","-117,649.31","-15,880,000.00","-","-","-","1.00","United States","-","USD","1.26","USD","-"
+"EWC","ISHARES MSCI CANADA ETF","Financials","Equity","12,481,600.32","100.12","12,481,600.32","394,488.00","464286509","US4642865095","2373681","31.64","United States","NYSE Arca","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","5,866.34","0.05","5,866.34","5,866.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"CAD","CAD/USD","Cash and/or Derivatives","Forwards","259.71","0.00","259.71","194,000.00","-","-","-","1.00","United States","-","USD","1.27","USD","-"
+"CAD","CAD/USD","Cash and/or Derivatives","Forwards","146.25","0.00","146.25","61,000.00","-","-","-","1.00","United States","-","USD","1.27","USD","-"
+"CAD","CAD/USD","Cash and/or Derivatives","Forwards","-21,613.06","-0.17","-21,613.06","-15,880,000.00","-","-","-","1.00","United States","-","USD","1.27","USD","-"
