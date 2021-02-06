@@ -1,7 +1,6 @@
 Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUSIP,ISIN,SEDOL,Price,Location,Exchange,Currency,FX Rate,Market Currency,Accrual Date
-"EWC","ISHARES MSCI CANADA ETF","Financials","Equity","12,500,422.80","99.85","12,500,422.80","395,583.00","464286509","US4642865095","2373681","31.60","United States","NYSE Arca","USD","1.00","USD","-"
-"XTSLA","BLK CSH FND TREASURY SL AGENCY","Cash and/or Derivatives","Money Market","40,000.00","0.32","40,000.00","40,000.00","066922477","US0669224778","-","1.00","United States","-","USD","1.00","USD","-"
-"CAD","CAD/USD","Cash and/or Derivatives","Forwards","12,288.77","0.10","12,288.77","-15,625,000.00","-","-","-","1.00","United States","-","USD","1.28","USD","-"
-"CAD","CAD/USD","Cash and/or Derivatives","Forwards","-55.54","0.00","-55.54","70,000.00","-","-","-","1.00","United States","-","USD","1.28","USD","-"
-"CAD","CAD/USD","Cash and/or Derivatives","Forwards","-135.89","0.00","-135.89","-217,000.00","-","-","-","1.00","United States","-","USD","1.28","USD","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","-33,323.21","-0.27","-33,323.21","-33,323.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"EWC","ISHARES MSCI CANADA ETF","Financials","Equity","12,547,892.76","99.47","12,547,892.76","395,583.00","464286509","US4642865095","2373681","31.72","United States","NYSE Arca","USD","1.00","USD","-"
+"CAD","CAD/USD","Cash and/or Derivatives","Forwards","60,484.95","0.48","60,484.95","-15,625,000.00","-","-","-","1.00","United States","-","USD","1.28","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","6,676.79","0.05","6,676.79","6,677.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"CAD","CAD/USD","Cash and/or Derivatives","Forwards","533.46","0.00","533.46","-217,000.00","-","-","-","1.00","United States","-","USD","1.28","USD","-"
+"CAD","CAD/USD","Cash and/or Derivatives","Forwards","-271.46","0.00","-271.46","70,000.00","-","-","-","1.00","United States","-","USD","1.28","USD","-"
