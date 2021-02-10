@@ -1,7 +1,7 @@
 Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUSIP,ISIN,SEDOL,Price,Location,Exchange,Currency,FX Rate,Market Currency,Accrual Date
-"JPXN","ISHARES JPX-NIKKEI 400 ETF","Financials","Equity","3,371,831.69","99.23","3,371,831.69","45,540.00","464287382","US4642873826","2812968","74.04","United States","NYSE Arca","USD","1.00","USD","-"
-"JPY","JPY/USD","Cash and/or Derivatives","Forwards","23,625.71","0.70","23,625.71","-335,048,000.00","-","-","-","1.00","United States","-","USD","105.45","USD","-"
+"JPXN","ISHARES JPX-NIKKEI 400 ETF","Financials","Equity","3,431,894.40","99.48","3,431,894.40","45,540.00","464287382","US4642873826","2812968","75.36","United States","NYSE Arca","USD","1.00","USD","-"
+"JPY","JPY/USD","Cash and/or Derivatives","Forwards","15,489.35","0.45","15,489.35","-335,048,000.00","-","-","-","1.00","United States","-","USD","105.18","USD","-"
 "XTSLA","BLK CSH FND TREASURY SL AGENCY","Cash and/or Derivatives","Money Market","1,000.00","0.03","1,000.00","1,000.00","066922477","US0669224778","-","1.00","United States","-","USD","1.00","USD","-"
 "USD","USD CASH","Cash and/or Derivatives","Cash","660.45","0.02","660.45","660.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
-"JPY","JPY/USD","Cash and/or Derivatives","Forwards","601.03","0.02","601.03","-8,525,000.00","-","-","-","1.00","United States","-","USD","105.45","USD","-"
-"JPY","JPY/USD","Cash and/or Derivatives","Forwards","382.59","0.01","382.59","-5,644,000.00","-","-","-","1.00","United States","-","USD","105.45","USD","-"
+"JPY","JPY/USD","Cash and/or Derivatives","Forwards","394.01","0.01","394.01","-8,525,000.00","-","-","-","1.00","United States","-","USD","105.18","USD","-"
+"JPY","JPY/USD","Cash and/or Derivatives","Forwards","245.53","0.01","245.53","-5,644,000.00","-","-","-","1.00","United States","-","USD","105.18","USD","-"
