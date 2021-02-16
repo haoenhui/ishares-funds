@@ -40,5 +40,5 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "PHP","PHP CASH","Cash and/or Derivatives","Cash","178,334.50","0.12","178,334.50","8,568,259.00","-","-","-","2.08","Philippines","-","USD","48.05","PHP","-"
 "XTSLA","BLK CSH FND TREASURY SL AGENCY","Cash and/or Derivatives","Money Market","10,000.00","0.01","10,000.00","10,000.00","066922477","US0669224778","-","1.00","United States","-","USD","1.00","USD","-"
 "HBCFT","CASH COLLATERAL USD HBCFT","Cash and/or Derivatives","Cash Collateral and Margins","9,000.00","0.01","9,000.00","9,000.00","-","-","-","100.00","United Kingdom","-","USD","1.00","USD","May 28, 2019"
-"MESH1","MSCI EMER MKT INDEX (ICE) MAR 21","Cash and/or Derivatives","Futures","0.00","0.00","143,800.00","2.00","-","-","-","1,438.00","-","Ice Futures U.S.","USD","1.00","USD","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","-15,362.41","-0.01","-15,362.41","-15,362.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"MESH1","MSCI EMER MKT INDEX (ICE) MAR 21","Cash and/or Derivatives","Futures","0.00","0.00","143,920.00","2.00","-","-","-","1,439.20","-","Ice Futures U.S.","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","-17,606.23","-0.01","-17,606.23","-17,606.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
