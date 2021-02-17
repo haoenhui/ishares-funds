@@ -89,4 +89,4 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "XTSLA","BLK CSH FND TREASURY SL AGENCY","Cash and/or Derivatives","Money Market","50,000.00","0.04","50,000.00","50,000.00","066922477","US0669224778","-","1.00","United States","-","USD","1.00","USD","-"
 "ABCB2","BANCO ABC BRASIL RIGHTS SA","Financials","Equity","2,433.28","0.00","2,433.28","3,684.00","-","BRABCBD16PR7","BNQPFZ9","0.66","Brazil","XBSP","USD","5.37","BRL","-"
 "MCBH1","BCLEAR MSCI BRAZIL INDEX MAR 21","Cash and/or Derivatives","Futures","0.00","0.00","443,718.90","9.00","-","GB00H7QSPM78","-","493.02","-","IFLL","USD","1.00","USD","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","-10,376.16","-0.01","-10,376.16","-10,376.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","-12,136.15","-0.01","-12,136.15","-12,136.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"

@@ -50,4 +50,4 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "XTSLA","BLK CSH FND TREASURY SL AGENCY","Cash and/or Derivatives","Money Market","190,000.00","0.02","190,000.00","190,000.00","066922477","US0669224778","-","1.00","United States","-","USD","1.00","USD","-"
 "SALFT","CASH COLLATERAL MXN SALFT","Cash and/or Derivatives","Cash Collateral and Margins","168,092.45","0.02","168,092.45","3,360,000.00","-","-","-","5.00","Mexico","-","USD","19.99","MXN","Dec 22, 2017"
 "ISH1","MEXICAN BOLSA INDEX FUTURE MAR 21","Cash and/or Derivatives","Futures","0.00","0.00","1,863,304.82","84.00","-","-","-","2,218.22","-","Mercado Mexicano De Derivados","USD","19.99","MXN","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","-237,901.86","-0.02","-237,901.86","-237,902.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","-237,901.89","-0.02","-237,901.89","-237,902.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"

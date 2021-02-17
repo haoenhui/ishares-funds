@@ -40,7 +40,7 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "CCRO3","COMPANHIA CONCESSOES RODOVIARIAS S","Industrials","Equity","10,423,586.31","0.60","10,423,586.31","4,488,500.00","S28409704","BRCCROACNOR2","2840970","2.32","Brazil","XBSP","USD","5.37","BRL","-"
 "ENELCHILE","ENEL CHILE SA","Utilities","Equity","7,842,702.52","0.45","7,842,702.52","100,620,412.00","-","CL0002266774","BYMLZD6","0.08","Chile","Santiago Stock Exchange","USD","722.96","CLP","-"
 "IENOVA*","INFRAESTRUCTURA ENERGETICA NOVA","Utilities","Equity","6,714,337.69","0.38","6,714,337.69","1,760,400.00","-","MX01IE060002","B84XBP2","3.81","Mexico","Bolsa Mexicana De Valores","USD","19.99","MXN","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","1,900,148.30","0.11","1,900,148.30","1,900,148.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","1,900,150.60","0.11","1,900,150.60","1,900,151.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
 "XTSLA","BLK CSH FND TREASURY SL AGENCY","Cash and/or Derivatives","Money Market","960,000.00","0.05","960,000.00","960,000.00","066922477","US0669224778","-","1.00","United States","-","USD","1.00","USD","-"
 "BRL","BRL CASH","Cash and/or Derivatives","Cash","789,224.46","0.05","789,224.46","4,234,505.00","-","-","-","18.64","Brazil","-","USD","5.37","BRL","-"
 "MXN","MXN CASH","Cash and/or Derivatives","Cash","480,785.43","0.03","480,785.43","9,610,420.00","-","-","-","5.00","Mexico","-","USD","19.99","MXN","-"

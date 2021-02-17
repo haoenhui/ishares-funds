@@ -27,4 +27,4 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "HBCFT","CASH COLLATERAL USD HBCFT","Cash and/or Derivatives","Cash Collateral and Margins","70,000.00","0.01","70,000.00","70,000.00","-","-","-","100.00","United Kingdom","-","USD","1.00","USD","May 28, 2019"
 "RUB","RUB CASH","Cash and/or Derivatives","Cash","22,502.43","0.00","22,502.43","1,662,310.00","-","-","-","1.35","Russian Federation","-","USD","73.87","RUB","-"
 "MESH1","MSCI EMER MKT INDEX (ICE) MAR 21","Cash and/or Derivatives","Futures","0.00","0.00","1,151,360.00","16.00","-","-","-","1,439.20","-","Ice Futures U.S.","USD","1.00","USD","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","-49,079.07","-0.01","-49,079.07","-49,079.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","-56,383.55","-0.01","-56,383.55","-56,384.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"

@@ -554,4 +554,4 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "VGH1","EURO STOXX 50 MAR 21","Cash and/or Derivatives","Futures","0.00","0.00","10,461,004.28","234.00","-","DE000C31Y1X2","-","4,470.54","European Union","Eurex Deutschland","USD","0.83","EUR","-"
 "TPH1","TOPIX INDEX MAR 21","Cash and/or Derivatives","Futures","0.00","0.00","6,795,522.74","37.00","-","-","-","18.37","-","Osaka Securities Exchange","USD","104.98","JPY","-"
 "Z H1","FTSE 100 INDEX MAR 21","Cash and/or Derivatives","Futures","0.00","0.00","12,302,342.67","136.00","-","GB00J6C6FT38","-","9,045.84","-","IFLL","USD","0.72","GBP","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","-1,427,466.93","-0.01","-1,427,466.93","-1,427,467.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","-1,315,797.06","-0.01","-1,315,797.06","-1,315,797.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"

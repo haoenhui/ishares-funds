@@ -86,7 +86,7 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "CAD","CAD/USD","Cash and/or Derivatives","Forwards","-1,185.28","0.00","-1,185.28","-206,000.00","-","-","-","1.00","United States","-","USD","1.27","USD","-"
 "ILS","ILS/USD","Cash and/or Derivatives","Forwards","-1,319.12","0.00","-1,319.12","-610,000.00","-","-","-","1.00","United States","-","USD","3.25","USD","-"
 "ZAR","ZAR/USD","Cash and/or Derivatives","Forwards","-2,150.13","0.00","-2,150.13","-900,000.00","-","-","-","1.00","United States","-","USD","14.59","USD","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","-3,136.86","0.00","-3,136.86","-3,137.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","-3,218.60","0.00","-3,218.60","-3,219.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
 "CLP","CLP/USD","Cash and/or Derivatives","Forwards","-3,225.49","0.00","-3,225.49","-145,701,000.00","-","-","-","1.00","United States","-","USD","722.71","USD","-"
 "KRW","KRW/USD","Cash and/or Derivatives","Forwards","-3,379.05","0.00","-3,379.05","-386,912,000.00","-","-","-","1.00","United States","-","USD","1,104.46","USD","-"
 "NOK","NOK/USD","Cash and/or Derivatives","Forwards","-3,377.41","0.00","-3,377.41","-2,938,000.00","-","-","-","1.00","United States","-","USD","8.47","USD","-"

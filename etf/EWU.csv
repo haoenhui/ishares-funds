@@ -94,4 +94,4 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "CHF","CHF CASH","Cash and/or Derivatives","Cash","91.67","0.00","91.67","82.00","-","-","-","112.15","Switzerland","-","USD","0.89","CHF","-"
 "NMC","NMC HEALTH PLC","Health Care","Equity","1.69","0.00","1.69","122,262.00","-","GB00B7FC0762","B7FC076","0.00","United Kingdom","London Stock Exchange","USD","0.72","GBP","-"
 "Z H1","FTSE 100 INDEX MAR 21","Cash and/or Derivatives","Futures","0.00","0.00","11,488,217.05","127.00","-","GB00J6C6FT38","-","9,045.84","-","IFLL","USD","0.72","GBP","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","-486,628.36","-0.02","-486,628.36","-486,628.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","-445,538.81","-0.01","-445,538.81","-445,539.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"

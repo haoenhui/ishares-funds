@@ -567,7 +567,7 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "3283","NIPPON PROLOGIS REIT INC","Real Estate","Equity","2,559.96","0.04","2,559.96","1.00","-","JP3047550003","B98BC67","3,205.53","Japan","Tokyo Stock Exchange","USD","104.98","JPY"
 "5201","AGC INC","Industrials","Equity","2,548.62","0.04","2,548.62","74.00","S60552080","JP3112000009","6055208","34.58","Japan","Tokyo Stock Exchange","USD","104.98","JPY"
 "MB","MEDIOBANCA BANCA DI CREDITO FINANZ","Financials","Equity","2,547.35","0.04","2,547.35","237.00","S45748134","IT0000062957","4574813","10.77","Italy","Borsa Italiana","USD","0.83","EUR"
-"USD","USD CASH","Cash and/or Derivatives","Cash","2,536.50","0.04","2,536.50","25.00","-","-","-","100.00","United States","-","USD","1.00","USD"
+"USD","USD CASH","Cash and/or Derivatives","Cash","2,531.35","0.04","2,531.35","25.00","-","-","-","100.00","United States","-","USD","1.00","USD"
 "AC","ACCOR SA","Consumer Discretionary","Equity","2,527.19","0.04","2,527.19","70.00","S58528423","FR0000120404","5852842","36.25","France","Nyse Euronext - Euronext Paris","USD","0.83","EUR"
 "TEL2 B","TELE2 B","Communication","Equity","2,524.67","0.04","2,524.67","190.00","-","SE0005190238","B97C733","13.26","Sweden","Nasdaq Omx Nordic","USD","8.31","SEK"
 "BSL","BLUESCOPE STEEL LTD","Materials","Equity","2,524.04","0.04","2,524.04","192.00","S65332322","AU000000BSL0","6533232","13.18","Australia","Asx - All Markets","USD","1.29","AUD"

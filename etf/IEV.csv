@@ -376,4 +376,4 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "VGH1","EURO STOXX 50 MAR 21","Cash and/or Derivatives","Futures","0.00","0.00","3,889,347.75","87.00","-","DE000C31Y1X2","-","4,470.54","European Union","Eurex Deutschland","USD","0.83","EUR","-"
 "Z H1","FTSE 100 INDEX MAR 21","Cash and/or Derivatives","Futures","0.00","0.00","1,990,084.84","22.00","-","GB00J6C6FT38","-","9,045.84","-","IFLL","USD","0.72","GBP","-"
 "MARGIN_USD","FUTURES USD MARGIN BALANCE","Cash and/or Derivatives","Cash Collateral and Margins","0.02","0.00","0.02","0.00","-","-","-","100.00","United States","-","USD","1.00","USD","Jan 01, 2000"
-"USD","USD CASH","Cash and/or Derivatives","Cash","-291,489.56","-0.02","-291,489.56","-291,490.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","-261,066.19","-0.02","-261,066.19","-261,066.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"

@@ -88,7 +88,7 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "SBRY","SAINSBURY(J) PLC","Consumer Staples","Equity","785,222.07","0.15","785,222.07","247,494.00","-","GB00B019KW72","B019KW7","3.17","United Kingdom","London Stock Exchange","USD","0.72","GBP","Jan 02, 1985"
 "WN","GEORGE WESTON LTD","Consumer Staples","Equity","772,088.46","0.15","772,088.46","10,124.00","961148509","CA9611485090","2956662","76.26","Canada","Toronto Stock Exchange","USD","1.27","CAD","-"
 "TATE","TATE AND LYLE PLC","Consumer Staples","Equity","673,229.59","0.13","673,229.59","66,906.00","S08754137","GB0008754136","0875413","10.06","United Kingdom","London Stock Exchange","USD","0.72","GBP","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","487,035.06","0.09","487,035.06","487,035.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","492,893.36","0.10","492,893.36","492,893.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
 "BRFS","BRF ADR REPRESENTING SA","Consumer Staples","Equity","455,201.05","0.09","455,201.05","104,165.00","10552T107","US10552T1079","2605210","4.37","Brazil","New York Stock Exchange Inc.","USD","1.00","USD","-"
 "CHF","CHF CASH","Cash and/or Derivatives","Cash","448,470.91","0.09","448,470.91","399,879.00","-","-","-","112.15","Switzerland","-","USD","0.89","CHF","-"
 "CENCOSUD","CENCOSUD SA","Consumer Staples","Equity","372,688.65","0.07","372,688.65","193,841.00","-","CL0000000100","B00R3L2","1.92","Chile","Santiago Stock Exchange","USD","722.96","CLP","-"

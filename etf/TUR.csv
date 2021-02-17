@@ -49,7 +49,7 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "FENER","FENERBAHCE FUTBOL","Communication","Equity","875,322.14","0.27","875,322.14","179,390.00","-","TREFBAH00019","B03MSK8","4.88","Turkey","Istanbul Stock Exchange","USD","7.03","TRY","-"
 "IZMDC","IZMIR DEMIR CELIK SANAYI A","Materials","Equity","625,619.88","0.19","625,619.88","335,966.00","-","TRAIZMDC91G6","B03MV09","1.86","Turkey","Istanbul Stock Exchange","USD","7.03","TRY","-"
 "XTSLA","BLK CSH FND TREASURY SL AGENCY","Cash and/or Derivatives","Money Market","180,000.00","0.05","180,000.00","180,000.00","066922477","US0669224778","-","1.00","United States","-","USD","1.00","USD","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","165,672.78","0.05","165,672.78","165,673.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","153,524.53","0.05","153,524.53","153,525.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
 "TRY","TRY CASH","Cash and/or Derivatives","Cash","138,521.96","0.04","138,521.96","973,740.00","-","-","-","14.23","Turkey","-","USD","7.03","TRY","-"
 "HBCFT","CASH COLLATERAL USD HBCFT","Cash and/or Derivatives","Cash Collateral and Margins","22,000.00","0.01","22,000.00","22,000.00","-","-","-","100.00","United Kingdom","-","USD","1.00","USD","May 28, 2019"
 "ENKAI","ENKA INSAAT VE SANAYI A","Industrials","Equity","1.08","0.00","1.08","1.00","-","TREENKA00011","B03MS64","1.09","Turkey","Istanbul Stock Exchange","USD","7.03","TRY","-"

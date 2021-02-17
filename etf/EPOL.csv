@@ -1,5 +1,5 @@
 Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUSIP,ISIN,SEDOL,Price,Location,Exchange,Currency,FX Rate,Market Currency,Accrual Date
-"KGH","KGHM POLSKA MIEDZ SA","Materials","Equity","25,915,346.57","10.01","25,915,346.57","507,514.00","S52632510","PLKGHM000017","5263251","51.06","Poland","Warsaw Stock Exchange/Equities/Main Market","USD","3.71","PLN","-"
+"KGH","KGHM POLSKA MIEDZ SA","Materials","Equity","25,915,346.57","10.02","25,915,346.57","507,514.00","S52632510","PLKGHM000017","5263251","51.06","Poland","Warsaw Stock Exchange/Equities/Main Market","USD","3.71","PLN","-"
 "PKO","POWSZECHNA KASA OSZCZEDNOSCI BANK","Financials","Equity","24,416,559.42","9.44","24,416,559.42","3,226,064.00","-","PLPKO0000016","B03NGS5","7.57","Poland","Warsaw Stock Exchange/Equities/Main Market","USD","3.71","PLN","-"
 "CDR","CD PROJEKT SA","Communication","Equity","17,929,027.79","6.93","17,929,027.79","252,922.00","S73022154","PLOPTTC00011","7302215","70.89","Poland","Warsaw Stock Exchange/Equities/Main Market","USD","3.71","PLN","-"
 "PZU","PZU SA","Financials","Equity","17,576,093.47","6.79","17,576,093.47","2,139,405.00","-","PLPZU0000011","B63DG21","8.22","Poland","Warsaw Stock Exchange/Equities/Main Market","USD","3.71","PLN","-"
@@ -39,4 +39,4 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "JPFFT","CASH COLLATERAL USD JPFFT","Cash and/or Derivatives","Cash Collateral and Margins","44,000.00","0.02","44,000.00","44,000.00","-","-","-","100.00","United States","-","USD","1.00","USD","Feb 01, 2009"
 "EUR","EUR CASH","Cash and/or Derivatives","Cash","285.65","0.00","285.65","236.00","-","-","-","121.19","European Union","-","USD","0.83","EUR","-"
 "MESH1","MSCI EMER MKT INDEX (ICE) MAR 21","Cash and/or Derivatives","Futures","0.00","0.00","719,600.00","10.00","-","-","-","1,439.20","-","Ice Futures U.S.","USD","1.00","USD","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","-1,221,749.03","-0.47","-1,221,749.03","-1,221,749.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","-1,231,263.89","-0.48","-1,231,263.89","-1,231,264.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"

@@ -465,7 +465,7 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "HKD","HKD CASH","Cash and/or Derivatives","Cash","3,158.45","0.00","3,158.45","24,487.00","-","-","-","12.90","Hong Kong","-","USD","7.75","HKD","-"
 "GBP","GBP CASH","Cash and/or Derivatives","Cash","2,553.41","0.00","2,553.41","1,844.00","-","-","-","138.48","United Kingdom","-","USD","0.72","GBP","-"
 "SGD","SGD CASH","Cash and/or Derivatives","Cash","1,035.50","0.00","1,035.50","1,372.00","-","-","-","75.47","Singapore","-","USD","1.33","SGD","-"
-"INR","INR CASH","Cash and/or Derivatives","Cash","857.10","0.00","857.10","62,354.00","-","-","-","1.37","India","-","USD","72.75","INR","-"
+"INR","INR CASH","Cash and/or Derivatives","Cash","838.98","0.00","838.98","61,036.00","-","-","-","1.37","India","-","USD","72.75","INR","-"
 "SEK","SEK CASH","Cash and/or Derivatives","Cash","595.98","0.00","595.98","4,955.00","-","-","-","12.03","Sweden","-","USD","8.31","SEK","-"
 "PHP","PHP CASH","Cash and/or Derivatives","Cash","408.14","0.00","408.14","19,610.00","-","-","-","2.08","Philippines","-","USD","48.05","PHP","-"
 "DKK","DKK CASH","Cash and/or Derivatives","Cash","369.89","0.00","369.89","2,270.00","-","-","-","16.30","Denmark","-","USD","6.14","DKK","-"

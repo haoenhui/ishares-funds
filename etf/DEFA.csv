@@ -1,6 +1,6 @@
 Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUSIP,ISIN,SEDOL,Price,Location,Exchange,Currency,FX Rate,Market Currency,Accrual Date
 "EFA","ISHARES MSCI EAFE ETF","Financials","Equity","6,302,213.97","99.98","6,302,213.97","82,587.00","464287465","US4642874659","2801290","76.31","United States","NYSE Arca","USD","1.00","USD","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","3,081.01","0.05","3,081.01","3,081.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","3,075.86","0.05","3,075.86","3,076.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
 "JPY","JPY/USD","Cash and/or Derivatives","Forwards","2,110.51","0.03","2,110.51","-78,644,000.00","-","-","-","1.00","United States","-","USD","104.96","USD","-"
 "EUR","EUR/USD","Cash and/or Derivatives","Forwards","1,367.64","0.02","1,367.64","-397,000.00","-","-","-","1.00","United States","-","USD","0.82","USD","-"
 "CHF","CHF/USD","Cash and/or Derivatives","Forwards","391.84","0.01","391.84","-128,000.00","-","-","-","1.00","United States","-","USD","0.89","USD","-"

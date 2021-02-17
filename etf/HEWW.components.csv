@@ -48,7 +48,7 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "NEMAKA","NEMAK","Consumer Discretionary","Equity","1,895.70","0.24","1,895.70","6,537.00","-","MX01NE000001","BYQ32R1","0.29","Mexico","Bolsa Mexicana De Valores","USD","19.99","MXN"
 "MXN","MXN CASH","Cash and/or Derivatives","Cash","1,456.06","0.18","1,456.06","291.00","-","-","-","5.00","Mexico","-","USD","19.99","MXN"
 "MXN","MXN/USD","Cash and/or Derivatives","Forwards","184.12","0.02","184.12","184.00","-","-","-","1.00","United States","-","USD","1.00","USD"
-"USD","USD CASH","Cash and/or Derivatives","Cash","163.60","0.02","163.60","2.00","-","-","-","100.00","United States","-","USD","1.00","USD"
+"USD","USD CASH","Cash and/or Derivatives","Cash","162.95","0.02","162.95","2.00","-","-","-","100.00","United States","-","USD","1.00","USD"
 "XTSLA","BLK CSH FND TREASURY SL AGENCY","Cash and/or Derivatives","Money Market","138.11","0.02","138.11","138.00","066922477","US0669224778","-","1.00","United States","-","USD","1.00","USD"
 "SALFT","CASH COLLATERAL MXN SALFT","Cash and/or Derivatives","Cash Collateral and Margins","122.19","0.02","122.19","24.00","-","-","-","5.00","Mexico","-","USD","19.99","MXN"
 "ISH1","MEXICAN BOLSA INDEX FUTURE MAR 21","Cash and/or Derivatives","Futures","0.00","0.00","0.00","0.00","-","-","-","2,218.22","-","Mercado Mexicano De Derivados","USD","19.99","MXN"

@@ -56,6 +56,5 @@ Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUS
 "IHG1","SGX CNX NIFTY ETS FEB 21","Cash and/or Derivatives","Futures","0.00","0.00","879,164.00","29.00","-","SGXDB0374130","-","15,158.00","India","Singapore Exchange Derivatives Clearing Limited","USD","1.00","USD","-"
 "MARGIN_ZAR","FUTURES ZAR MARGIN BALANCE","Cash and/or Derivatives","Cash Collateral and Margins","-19.46","0.00","-19.46","-283.00","-","-","-","6.87","South Africa","-","USD","14.56","ZAR","Jan 01, 2000"
 "USD","USD/INR","Cash and/or Derivatives","FX","-55.33","0.00","-55.33","39,851.00","-","-","-","0.01","India","-","USD","1.00","INR","-"
-"INR","INR/USD","Cash and/or Derivatives","FX","-230.20","0.00","-230.20","-14,310,990.00","-","-","-","1.00","United States","-","USD","72.76","USD","-"
 "INR","INR/USD","Cash and/or Derivatives","FX","-9,281.61","0.00","-9,281.61","-485,092,097.00","-","-","-","1.00","United States","-","USD","72.75","USD","-"
 "USD","USD CASH","Cash and/or Derivatives","Cash","-23,005,056.79","-3.22","-23,005,056.79","-23,005,057.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
