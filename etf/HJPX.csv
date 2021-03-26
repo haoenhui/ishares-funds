@@ -1,7 +1,7 @@
 Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUSIP,ISIN,SEDOL,Price,Location,Exchange,Currency,FX Rate,Market Currency,Accrual Date
-"JPXN","ISHARES JPX-NIKKEI 400 ETF","Financials","Equity","3,489,711.98","99.03","3,489,711.98","45,540.00","464287382","US4642873826","2812968","76.63","United States","NYSE Arca","USD","1.00","USD","-"
-"JPY","JPY/USD","Cash and/or Derivatives","Forwards","31,373.16","0.89","31,373.16","-335,048,000.00","-","-","-","1.00","United States","-","USD","105.70","USD","-"
+"JPXN","ISHARES JPX-NIKKEI 400 ETF","Financials","Equity","3,408,630.79","97.88","3,408,630.79","46,341.00","464287382","US4642873826","2812968","73.56","United States","NYSE Arca","USD","1.00","USD","-"
+"JPY","JPY/USD","Cash and/or Derivatives","Forwards","69,409.41","1.99","69,409.41","-349,217,000.00","-","-","-","1.00","United States","-","USD","108.80","USD","-"
+"JPY","JPY/USD","Cash and/or Derivatives","Forwards","3,611.36","0.10","3,611.36","-18,164,000.00","-","-","-","1.00","United States","-","USD","108.80","USD","-"
 "XTSLA","BLK CSH FND TREASURY SL AGENCY","Cash and/or Derivatives","Money Market","1,000.00","0.03","1,000.00","1,000.00","066922477","US0669224778","-","1.00","United States","-","USD","1.00","USD","-"
-"JPY","JPY/USD","Cash and/or Derivatives","Forwards","798.16","0.02","798.16","-8,525,000.00","-","-","-","1.00","United States","-","USD","105.70","USD","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","660.45","0.02","660.45","660.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
-"JPY","JPY/USD","Cash and/or Derivatives","Forwards","513.10","0.01","513.10","-5,644,000.00","-","-","-","1.00","United States","-","USD","105.70","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","541.10","0.02","541.10","541.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"JPY","JPY/USD","Cash and/or Derivatives","Forwards","-603.37","-0.02","-603.37","3,056,000.00","-","-","-","1.00","United States","-","USD","108.80","USD","-"

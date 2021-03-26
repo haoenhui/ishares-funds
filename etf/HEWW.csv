@@ -1,6 +1,8 @@
 Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUSIP,ISIN,SEDOL,Price,Location,Exchange,Currency,FX Rate,Market Currency,Accrual Date
-"EWW","ISHARES MSCI MEXICO ETF","Financials","Equity","806,446.62","100.39","806,446.62","19,011.00","464286822","US4642868222","2373818","42.42","United States","NYSE Arca","USD","1.00","USD","-"
-"USD","USD CASH","Cash and/or Derivatives","Cash","335.90","0.04","335.90","336.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
-"MXN","MXN/USD","Cash and/or Derivatives","Forwards","57.75","0.01","57.75","284,000.00","-","-","-","1.00","United States","-","USD","20.20","USD","-"
-"MXN","MXN/USD","Cash and/or Derivatives","Forwards","-142.55","-0.02","-142.55","-232,000.00","-","-","-","1.00","United States","-","USD","20.20","USD","-"
-"MXN","MXN/USD","Cash and/or Derivatives","Forwards","-3,385.71","-0.42","-3,385.71","-16,325,000.00","-","-","-","1.00","United States","-","USD","20.20","USD","-"
+"EWW","ISHARES MSCI MEXICO ETF","Financials","Equity","670,199.50","101.02","670,199.50","15,725.00","464286822","US4642868222","2373818","42.62","United States","NYSE Arca","USD","1.00","USD","-"
+"USD","USD CASH","Cash and/or Derivatives","Cash","102.10","0.02","102.10","102.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
+"MXN","MXN/USD","Cash and/or Derivatives","Forwards","44.31","0.01","44.31","101,000.00","-","-","-","1.00","United States","-","USD","20.83","USD","-"
+"MXN","MXN/USD","Cash and/or Derivatives","Forwards","7.28","0.00","7.28","-40,000.00","-","-","-","1.00","United States","-","USD","20.83","USD","-"
+"MXN","MXN/USD","Cash and/or Derivatives","Forwards","-143.34","-0.02","-143.34","-384,000.00","-","-","-","1.00","United States","-","USD","20.83","USD","-"
+"MXN","MXN/USD","Cash and/or Derivatives","Forwards","-744.48","-0.11","-744.48","3,347,000.00","-","-","-","1.00","United States","-","USD","20.83","USD","-"
+"MXN","MXN/USD","Cash and/or Derivatives","Forwards","-6,062.18","-0.91","-6,062.18","-16,273,000.00","-","-","-","1.00","United States","-","USD","20.83","USD","-"
