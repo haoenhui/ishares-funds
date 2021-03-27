@@ -1,7 +1,7 @@
 Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUSIP,ISIN,SEDOL,Price,Location,Exchange,Currency,FX Rate,Market Currency,Accrual Date
-"EWU","ISHARES MSCI UNITED KINGDOM ETF","Financials","Equity","7,586,208.24","98.12","7,586,208.24","245,986.00","46435G334","US46435G3341","BDR7G62","30.84","United States","NYSE Arca","USD","1.00","USD","-"
-"GBP","GBP/USD","Cash and/or Derivatives","Forwards","139,403.62","1.80","139,403.62","-5,324,000.00","-","-","-","1.00","United States","-","USD","0.73","USD","-"
+"EWU","ISHARES MSCI UNITED KINGDOM ETF","Financials","Equity","7,645,244.88","98.14","7,645,244.88","245,986.00","46435G334","US46435G3341","BDR7G62","31.08","United States","NYSE Arca","USD","1.00","USD","-"
+"GBP","GBP/USD","Cash and/or Derivatives","Forwards","138,977.81","1.78","138,977.81","-5,324,000.00","-","-","-","1.00","United States","-","USD","0.73","USD","-"
 "USD","USD CASH","Cash and/or Derivatives","Cash","4,914.34","0.06","4,914.34","4,914.00","-","-","-","100.00","United States","-","USD","1.00","USD","-"
-"GBP","GBP/USD","Cash and/or Derivatives","Forwards","2,794.38","0.04","2,794.38","-157,000.00","-","-","-","1.00","United States","-","USD","0.73","USD","-"
-"GBP","GBP CASH","Cash and/or Derivatives","Cash","0.27","0.00","0.27","0.00","-","-","-","137.21","United Kingdom","-","USD","0.73","GBP","-"
-"GBP","GBP/USD","Cash and/or Derivatives","Forwards","-1,771.05","-0.02","-1,771.05","77,000.00","-","-","-","1.00","United States","-","USD","0.73","USD","-"
+"GBP","GBP/USD","Cash and/or Derivatives","Forwards","2,781.82","0.04","2,781.82","-157,000.00","-","-","-","1.00","United States","-","USD","0.73","USD","-"
+"GBP","GBP CASH","Cash and/or Derivatives","Cash","0.27","0.00","0.27","0.00","-","-","-","137.22","United Kingdom","-","USD","0.73","GBP","-"
+"GBP","GBP/USD","Cash and/or Derivatives","Forwards","-1,764.89","-0.02","-1,764.89","77,000.00","-","-","-","1.00","United States","-","USD","0.73","USD","-"
